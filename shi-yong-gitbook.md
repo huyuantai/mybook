@@ -8,7 +8,7 @@
 3.gitbook -V  检查是否成功
 
 # 如何使用GiBook
-1.GitBook Editor编辑完book保存
+1.GitBook Editor编辑完book后保存
 2.找到并进入GitBook Editor保存的book目录
 > cd C:/Users/ben/GitBook/Library/Import
 
