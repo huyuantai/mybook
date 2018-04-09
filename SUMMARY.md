@@ -7,4 +7,5 @@
   * [设计原则](chapter1/she-ji-yuan-ze.md)
   * [单例模式](chapter1/dan-li-mo-shi.md)
   * [工厂](chapter1/gong-chang.md)
+  * [建造者模式](chapter1/jian-zao-zhe-mo-shi.md)
 
