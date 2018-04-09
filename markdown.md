@@ -66,7 +66,7 @@
 3. Blue
 
 
-效果如下
+### 效果如下
 ```
 public HashMap(int initialCapacity, float loadFactor) {
         if (initialCapacity < 0)
