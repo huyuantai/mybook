@@ -65,7 +65,7 @@
 2. Green
 3. Blue
 
-#代码
+# 代码
 >\```
 public HashMap(int initialCapacity, float loadFactor) {
         if (initialCapacity < 0)
