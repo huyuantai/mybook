@@ -19,6 +19,6 @@
 3.运行GitBook查看book效果
 > gitbook serve
 
-![](/assets/捕获.PNG)
+![](https://github.com/huyuantai/mybook/blob/master/assets/%E6%8D%95%E8%8E%B7.PNG)
 
 4.访问http://localhost:4000/ 查看相应的book
