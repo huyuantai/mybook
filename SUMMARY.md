@@ -6,4 +6,5 @@
 * [设计模式](chapter1.md)
   * [设计原则](chapter1/she-ji-yuan-ze.md)
   * [单例模式](chapter1/dan-li-mo-shi.md)
+  * [工厂](chapter1/gong-chang.md)
 
