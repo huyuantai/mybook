@@ -80,8 +80,8 @@ public class ConcreteProduct2 implements Product{
 
 
 
-
-
+静态工厂方法VS构造器
+http://ifeve.com/static-factory-methods-vs-traditional-constructors/
 
 
 
