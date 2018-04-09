@@ -27,7 +27,7 @@ public class Singleton {
     }  
 }
 ```
-###静态内部类
+### 静态内部类
 jvm加载Singleton，不会实例化单例类；当getInstance()被调用时，才会加载SingletonHolder，实例化INSTANCE
 优点：实现延迟实例化，又没用synchronized（懒汉 和 饿汉结合）
 
@@ -43,7 +43,7 @@ public class Singleton {
 }
 ```
 
-###枚举（特殊方式）
+### 枚举（特殊方式）
 ```
 public enum Singleton {  
     INSTANCE;  
@@ -52,7 +52,7 @@ public enum Singleton {
 } 
 ```
 
-###双重校验锁
+### 双重校验锁
 双层校验, 第一次校验不是线程安全的，也就是说可能有多个线程同时得到singleton为null的结果，接下来的同步代码块保证了同一时间只有一个线程进入，而第一个进入的线程会创建对象，等其他线程再进入时对象已创建就不会继续创建。这是一个很巧妙的方式，如果对整个方法同步，所有获取单例的线程都要排队，
 只需要对创建过程同步来保证"单例"，多个线程不管是否已经有单例可以同时去请求
 ```
@@ -71,3 +71,12 @@ public class Singleton {
     }  
 } 
 ```
+
+### 双重校验锁为什么要加volatile
+在上面这行代码中，没有使用volatile关键字，的确即使发生了指令重排序，在同步代码块结束时，instance会被正确的初始化。
+
+但是，假如你在其他线程中使用了这个static instance的静态变量，用instance==null的方法判断instance有没有被正确初始化的话，有可能会出现instance访问失败的情况。
+
+在这个时间点上，同步代码块尚未执行完毕，由于指令重排序，instance对象已经指向分配的内存空间，但是instance尚未初始化完毕。在这时调用instance，会引发jvm的exception
+
+
