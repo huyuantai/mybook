@@ -73,6 +73,13 @@ public class Singleton {
 ```
 
 ### 双重校验锁为什么要加volatile
+instance=new Singleton() 创建对象分为以下步骤：
+
+> memory = allocate();　　// 1：分配对象的内存空间
+> ctorInstance(memory);　// 2：初始化对象
+> instance = memory;　　 // 3：设置instance指向刚分配的内存地址
+
+
 在上面这行代码中，没有使用volatile关键字，的确即使发生了指令重排序，在同步代码块结束时，instance会被正确的初始化。
 
 但是，假如你在其他线程中使用了这个static instance的静态变量，用instance==null的方法判断instance有没有被正确初始化的话，有可能会出现instance访问失败的情况。
