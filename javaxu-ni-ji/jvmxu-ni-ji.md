@@ -35,3 +35,9 @@ Eden区再满Minor GC，Eden和S0中的存活对象 移到S1
 Eden区又满Minor GC，Eden和S1中的存活对象 移到S0 (S1、S0调转)
 
 因为这种复制算法保证了S1中来自S0和Eden两部分的存活对象占用连续的内存空间，避免了碎片化的发生）整个过程中，永远有一个survivor space是空的，另一个非空的survivor space无碎片。
+
+# 只使用一个Survivor会碎片化
+![](/assets/20160516173704870)
+
+# 使用两个Survivor得以解决
+![](/assets/20160516174938778)
