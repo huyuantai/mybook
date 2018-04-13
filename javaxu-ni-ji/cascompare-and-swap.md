@@ -32,15 +32,10 @@ public boolean compareAndSet(V   expectedReference,
 ![](/assets/2.JPEG)
 
 
-
 并发2：进行了2次出栈
 
 并发3：又进行了1次出栈
 
 并发1（下）：实施CAS乐观锁，发现栈顶还是“A1”，于是修改为A2
 
-此时会出现
-
-系统错误
-
-，因为此“A1”非彼“A1”
+此时会出现系统错误，因为此“A1”非彼“A1”
