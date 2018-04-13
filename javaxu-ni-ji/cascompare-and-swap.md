@@ -25,8 +25,12 @@ public boolean compareAndSet(V   expectedReference,
 
 再看一个堆栈操作会影响的例子：
 
+![](/assets/3.JPEG)
+
 
 并发1（上）：读取栈顶的元素为“A1”
+![](/assets/2.JPEG)
+
 
 
 并发2：进行了2次出栈
