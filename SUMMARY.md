@@ -16,4 +16,5 @@
   * [索引](shu-ju-ku/suo-yin.md)
 * [Linux](linux.md)
   * [常见命令](linux/chang-jian-ming-ling.md)
+* [秒杀](miao-sha.md)
 
