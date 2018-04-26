@@ -28,8 +28,11 @@ public class StringBufferDemo {
         change(s1, s2);
         System.out.println(s1 + "---" + s2);// hello---world
 
+
+
         StringBuffer sb1 = new StringBuffer("hello");
         StringBuffer sb2 = new StringBuffer("world");
+        
         System.out.println(sb1 + "---" + sb2);// hello---world
         change(sb1, sb2);
         System.out.println(sb1 + "---" + sb2);// hello---worldworld
