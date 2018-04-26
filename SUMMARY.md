@@ -20,4 +20,5 @@
   * [常见命令](linux/chang-jian-ming-ling.md)
 * [秒杀](miao-sha.md)
 * [tomcat](tomcat.md)
+* [笔试题](bi-shi-ti.md)
 
