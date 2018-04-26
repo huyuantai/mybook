@@ -22,6 +22,7 @@ public static void change(String x) {
 ```java
 public class StringBufferDemo {
     public static void main(String[] args) {
+    
         String s1 = "hello";
         String s2 = "world";
         System.out.println(s1 + "---" + s2);// hello---world
