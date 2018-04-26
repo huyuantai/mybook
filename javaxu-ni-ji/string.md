@@ -51,3 +51,7 @@ public class StringBufferDemo {
     }
 }
 ```
+
+# 总结
+String 传递时，无论s1 = s2;s2 = s1 + s2;都不影响原来的s1，s2
+StringBuffer 传递时，
