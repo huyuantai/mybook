@@ -104,5 +104,9 @@ private Object readResolve() throws ObjectStreamException {
 }  
 ```
 
+# 为什么使用单例模式
+一则解决多线程并发访问的问题
+二则节约系统内存，提交系统运行的效率，提高系统性能
+
 
 
