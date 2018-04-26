@@ -14,7 +14,7 @@
 * [Java相关](javaxu-ni-ji.md)
   * [jvm虚拟机](javaxu-ni-ji/jvmxu-ni-ji.md)
   * [CAS\[compare and swap\]](javaxu-ni-ji/cascompare-and-swap.md)
-  * String
+  * [String](javaxu-ni-ji/string.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
 * [Linux](linux.md)
