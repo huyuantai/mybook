@@ -3,6 +3,7 @@
 
 # 在java中，对于不管是基本类型还是引用类型，采用的都是值调用
 
+```java
 public static void main(String[] args) {  
     String x = new String("ab");  
     change(x);  
@@ -12,3 +13,4 @@ public static void main(String[] args) {
 public static void change(String x) {  
     x = "cd";  
 }
+```
