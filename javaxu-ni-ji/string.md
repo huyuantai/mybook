@@ -53,5 +53,6 @@ public class StringBufferDemo {
 ```
 
 # 总结
-String 传递时，无论s1 = s2;s2 = s1 + s2;都不影响原来的s1，s2
-StringBuffer 传递时，
+> String 传递时，无论s1 = s2;s2 = s1 + s2;都不影响原来的s1，s2
+StringBuffer 传递时，sb1 = sb2;不影响原来的s1，s2
+ sb2.append(sb1); 会影响，由于前面有sb1 = sb2，所以这里的输出为worldworld
