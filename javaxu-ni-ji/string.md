@@ -56,3 +56,19 @@ public class StringBufferDemo {
 > String 传递时，无论s1 = s2;s2 = s1 + s2;都不影响原来的s1，s2
 StringBuffer 传递时，sb1 = sb2;不影响原来的s1，s2
  sb2.append(sb1); 会影响，由于前面有sb1 = sb2，所以这里的输出为worldworld
+ 
+ 
+# 对象相等判断
+``` java
+ String str1 = "aaa";
+ String str2 = "bbb";
+ String str3 = "aaabbb";
+ String str4 = str1 + str2;
+ String str5 = "aaa" + "bbb";
+ System.out.println(str3 == str4); // false
+ System.out.println(str3 == str4.intern()); // true
+ System.out.println(str3 == str5);// true
+```
+
+
+　　结果：str1、str2、str3、str5都是存在于常量池，str4由于表达式右半边有引用类型，所以str4存在于堆内存，而str5表达式右边没有引用类型，是纯字符串常量，就存放在了常量池里面。其实Integer这种包装类型的-128 ~ +127也是存放在常量池里面，比如Integer i1 = 10;Integer i2 = 10; i1 == i2结果是true，估计也是为了性能优化。
