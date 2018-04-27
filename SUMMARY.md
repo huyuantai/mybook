@@ -22,4 +22,10 @@
 * [秒杀](miao-sha.md)
 * [tomcat](tomcat.md)
 * [笔试题](bi-shi-ti.md)
+* [重点业务与技术](zhong-dian-ye-wu-yu-ji-zhu.md)
+  * 秒杀
+  * 支付业务
+  * 分布式事务
+  * 分库分表
+  * 缓存
 
