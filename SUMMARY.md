@@ -28,5 +28,5 @@
   * 分布式事务
   * 分库分表
   * 缓存
-  * [BPM](zhong-dian-ye-wu-yu-ji-zhu/bpm.md)
+  * [业务工作引擎](zhong-dian-ye-wu-yu-ji-zhu/bpm.md)
 
