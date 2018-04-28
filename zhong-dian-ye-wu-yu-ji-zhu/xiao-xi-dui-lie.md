@@ -22,7 +22,7 @@ rabbitmq-plugins enable rabbitmq_management
 
 
 # rabbitmq confirm、return
-总结下就是:
+#### 发送消息确认
 
 如果消息没有到exchange,则confirm回调,ack=false
 
@@ -36,4 +36,7 @@ exchange到queue失败,则回调return(需设置mandatory=true,否则不回回�
 备注:需要说明,spring-rabbit和原生的rabbit-client ,表现是不一样的.
 
 测试的时候,原生的client,exchange错误的话,直接就报错了,是不会到confirmListener和returnListener的
+
+pring对rabbitmq支持的一些示例,主要包括: 发送消息确认 消费消息确认 死信队列
+
 
