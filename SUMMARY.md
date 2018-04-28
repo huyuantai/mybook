@@ -25,7 +25,7 @@
 * [重点业务与技术](zhong-dian-ye-wu-yu-ji-zhu.md)
   * 秒杀
   * 支付业务
-  * 分布式事务
+  * [分布式事务](zhong-dian-ye-wu-yu-ji-zhu/fen-bu-shi-shi-wu.md)
   * 分库分表
   * 缓存
   * [业务工作引擎](zhong-dian-ye-wu-yu-ji-zhu/bpm.md)
