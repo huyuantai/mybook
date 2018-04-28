@@ -20,3 +20,20 @@ rabbitmq-plugins enable rabbitmq_management
 默认用户名：guest （只能localhost登陆） 
 默认密码：guest 
 
+
+# rabbitmq confirm、return
+总结下就是:
+
+如果消息没有到exchange,则confirm回调,ack=false
+
+如果消息到达exchange,则confirm回调,ack=true
+
+exchange到queue成功,则不回调return
+
+exchange到queue失败,则回调return(需设置mandatory=true,否则不回回调,消息就丢了)
+
+
+备注:需要说明,spring-rabbit和原生的rabbit-client ,表现是不一样的.
+
+测试的时候,原生的client,exchange错误的话,直接就报错了,是不会到confirmListener和returnListener的
+
