@@ -40,4 +40,5 @@ exchange到queue失败,则回调return(需设置mandatory=true,否则不回回�
 
 pring对rabbitmq支持的一些示例,主要包括: 发送消息确认 消费消息确认 死信队列
 
+# Dead Letter 本来不是用于延时发送的, 而是处理 消息过期,消息被拒绝,队列超出限制大小
 
