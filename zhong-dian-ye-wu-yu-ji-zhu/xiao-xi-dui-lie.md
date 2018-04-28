@@ -11,6 +11,9 @@
 发送者没法确认是否发送成功,消费者处理失败也无法反馈
 
 
+# 消息重复堆积
+如果抛异常或unack（并且requeue为true），消息会一直重新入队列，一不小心就会xxxxx一大堆消息不断重复
+
 # rabbimq
 rabbitmq-plugins enable rabbitmq_management 
 访问地址：http://ip:15672 /   http://localhost:15672
