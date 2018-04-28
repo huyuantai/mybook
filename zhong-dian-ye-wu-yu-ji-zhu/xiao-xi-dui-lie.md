@@ -13,7 +13,7 @@
 
 # rabbimq
 rabbitmq-plugins enable rabbitmq_management 
-访问地址：http://ip:15672 / localhost:15672
+访问地址：http://ip:15672 /   http://localhost:15672
 默认用户名：guest （只能localhost登陆） 
 默认密码：guest 
 
