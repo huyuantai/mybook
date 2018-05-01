@@ -27,7 +27,7 @@
   * 秒杀
   * 支付业务
   * [分布式事务](zhong-dian-ye-wu-yu-ji-zhu/fen-bu-shi-shi-wu.md)
-  * 分库分表
+  * [分库分表](zhong-dian-ye-wu-yu-ji-zhu/fen-ku-fen-biao.md)
   * 缓存
   * [业务工作引擎](zhong-dian-ye-wu-yu-ji-zhu/bpm.md)
   * [消息队列](zhong-dian-ye-wu-yu-ji-zhu/xiao-xi-dui-lie.md)
