@@ -20,3 +20,15 @@ File类、递归、字节流、字符流、转换流、缓冲流
 反射
 11）MySQL及JDBC开发（重点）
 MySQL数据库、JDBC、DBUtils、DBCP连接池
+
+
+
+2、知识点:
+1）前端技术（掌握）
+HTML、CSS、JavaScript、jQuery、bootstrap
+2）Mysql及JDBC（重点）
+MySQL数据库回顾、JDBC开发回顾、连接池和DBUtil
+3）JavaWeb开发核心内容（重点）
+XML、HTTP及Tomcat、Servlet、request与response、cookie与session、Jsp技术、jdbc高级、Ajax开发、Filter/Listener高级开发技术、Redis、Linux
+4）阶段案例（掌握）
+系统封装：BaseServlet抽取、缓存技术Redis应用、在线支付接口开发、文件上传、JavaMail、Linux项目部署
