@@ -17,9 +17,9 @@
 依赖还“使用”对方的方法与属性
 
 # 组合聚合关系——菱形
-![](/assets/zuhe.png)
+![](/assets/zuhe.png)：组合关系
 
-![](/assets/juhe.png)
+![](/assets/juhe.png)：聚合关系
 
 
 
