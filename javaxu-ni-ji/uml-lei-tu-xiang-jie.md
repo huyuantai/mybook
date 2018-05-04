@@ -11,5 +11,5 @@
 ![](/assets/juhe.png)
 
 # 关联依赖关系——小箭头
-![](/assets/juhe.png)
-![](/assets/juhe.png)
+![](/assets/guanlian.png)
+![](/assets/yilai.png)
