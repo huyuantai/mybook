@@ -23,3 +23,9 @@
 
 # 详细介绍
 
+![](/assets/jicheng.png) ：继承抽象类、实现接口
+
+![](/assets/fanhua.png)  ：继承具体类（即非抽象类）
+
+实现
+
