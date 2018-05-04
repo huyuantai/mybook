@@ -1,6 +1,6 @@
 # 继承关系（泛化与实现）——空心三角形
 
-![](/assets/jicheng.png)
+![](/assets/jicheng.png) 继承抽象类、实现接口
 
 ![](/assets/fanhua.png)
 
