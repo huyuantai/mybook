@@ -15,6 +15,8 @@
   * [jvm虚拟机](javaxu-ni-ji/jvmxu-ni-ji.md)
   * [CAS\[compare and swap\]](javaxu-ni-ji/cascompare-and-swap.md)
   * [String](javaxu-ni-ji/string.md)
+  * [Java 学习路线](javaxu-ni-ji/java-xue-xi-lu-xian.md)
+* [Java学习路线](javaxue-xi-lu-xian.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
@@ -23,14 +25,5 @@
 * [秒杀](miao-sha.md)
 * [tomcat](tomcat.md)
 * [笔试题](bi-shi-ti.md)
-* [重点业务与技术](zhong-dian-ye-wu-yu-ji-zhu.md)
-  * 秒杀
-  * 支付业务
-  * [分布式事务](zhong-dian-ye-wu-yu-ji-zhu/fen-bu-shi-shi-wu.md)
-  * [分库分表](zhong-dian-ye-wu-yu-ji-zhu/fen-ku-fen-biao.md)
-  * 缓存
-  * [业务工作引擎](zhong-dian-ye-wu-yu-ji-zhu/bpm.md)
-  * [消息队列](zhong-dian-ye-wu-yu-ji-zhu/xiao-xi-dui-lie.md)
-  * 分布式问题
 * [Java学习路线](javaxue-xi-lu-xian.md)
 
