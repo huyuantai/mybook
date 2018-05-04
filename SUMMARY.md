@@ -32,4 +32,5 @@
   * [业务工作引擎](zhong-dian-ye-wu-yu-ji-zhu/bpm.md)
   * [消息队列](zhong-dian-ye-wu-yu-ji-zhu/xiao-xi-dui-lie.md)
   * 分布式问题
+* [Java学习路线](javaxue-xi-lu-xian.md)
 
