@@ -1,17 +1,18 @@
 # 继承关系（泛化与实现）——空心三角形
 
-![](/assets/jicheng.png) 
-继承抽象类、实现接口
+> ![](/assets/jicheng.png)： 继承抽象类、实现接口
 
+------
 
-![](/assets/fanhua.png)  
-继承具体类（即非抽象类）
+> ![](/assets/fanhua.png)：继承具体类（即非抽象类）
 
 
 # 关联依赖关系——小箭头
-![](/assets/guanlian.png)：关联关系【代码体现】：成员变量
+> ![](/assets/guanlian.png)：关联关系
+【代码体现】：成员变量
 
-![](/assets/yilai.png)：依赖关系，临时性，杜绝双向依赖
+![](/assets/yilai.png)
+依赖关系，临时性，杜绝双向依赖
 【代码体现】：
 1.局部变量
 2.类构造方法或类方法的传入参数
