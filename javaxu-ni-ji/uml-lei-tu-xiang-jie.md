@@ -35,7 +35,7 @@
 >弱依赖，整体不存在，部分仍可存在 
 >【代码体现】：成员变量
 
-
+https://blog.csdn.net/lfsf802/article/details/8987267
 
 
 
