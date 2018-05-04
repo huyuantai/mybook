@@ -23,9 +23,12 @@
 
 # 详细介绍
 
-![](/assets/jicheng.png) ：继承抽象类、实现接口
+![](/assets/jicheng.png) ：泛化继承抽象类、实现接口
 
 ![](/assets/fanhua.png)  ：继承具体类（即非抽象类）
 
-实现
+泛化
+![](/assets/1346433-af095465558161ca.png)
 
+实现
+![](/assets/1346433-4cea5dc72a898986.png)
