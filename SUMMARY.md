@@ -17,6 +17,7 @@
   * [String](javaxu-ni-ji/string.md)
   * [Java 学习路线](javaxu-ni-ji/java-xue-xi-lu-xian.md)
   * [Servlet](javaxu-ni-ji/servlet.md)
+  * [UML 类图详解](javaxu-ni-ji/uml-lei-tu-xiang-jie.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
