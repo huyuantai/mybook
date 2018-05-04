@@ -16,7 +16,7 @@
   * [CAS\[compare and swap\]](javaxu-ni-ji/cascompare-and-swap.md)
   * [String](javaxu-ni-ji/string.md)
   * [Java 学习路线](javaxu-ni-ji/java-xue-xi-lu-xian.md)
-* [Java学习路线](javaxue-xi-lu-xian.md)
+  * [Servlet](javaxu-ni-ji/servlet.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
@@ -25,5 +25,4 @@
 * [秒杀](miao-sha.md)
 * [tomcat](tomcat.md)
 * [笔试题](bi-shi-ti.md)
-* [Java学习路线](javaxue-xi-lu-xian.md)
 
