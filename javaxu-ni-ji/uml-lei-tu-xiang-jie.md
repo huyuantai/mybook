@@ -37,7 +37,7 @@
 
 https://blog.csdn.net/lfsf802/article/details/8987267
 
-耦合强弱比较：依赖<关联<聚合<组合<继承
+耦合强弱比较：依赖< 关联< 聚合< 组合< 继承
 
 
 
