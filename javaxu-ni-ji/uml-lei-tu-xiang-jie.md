@@ -41,6 +41,7 @@ https://blog.csdn.net/lfsf802/article/details/8987267
 
 提倡不用继承，使用组合！！
 
+![](/assets/uml.png)
 
 
 
