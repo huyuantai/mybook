@@ -7,6 +7,7 @@
 
 # 时序图
 ![](/assets/v2-1319a76707fb632dc5188885fb81892f_hd.jpg)
-v2-1836b67bd117d0709c91ca100a084866_hd.jpg
+
+![](/assets/v2-1836b67bd117d0709c91ca100a084866_hd.jpg)
 
 ![](/assets/1480579-7c554f557162d618.png)
