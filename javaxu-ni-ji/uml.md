@@ -1,4 +1,4 @@
-![](/assets/v2-1836b67bd117d0709c91ca100a084866_hd.jpg)UML:类图、时序图、用例图、活动图、状态图
+UML:类图、时序图、用例图、活动图、状态图
 轻松入门：http://www.woshipm.com/pmd/183238.html
 
 # 用例图
