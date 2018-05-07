@@ -6,4 +6,5 @@ UML:类图、时序图、用例图、活动图、状态图
 ![](/assets/yongli.png)
 
 # 时序图
+![](/assets/v2-1319a76707fb632dc5188885fb81892f_hd.jpg)
 
