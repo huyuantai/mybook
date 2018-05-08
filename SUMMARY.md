@@ -11,10 +11,9 @@
   * [工厂](chapter1/gong-chang.md)
   * [建造者模式](chapter1/jian-zao-zhe-mo-shi.md)
   * [代理模式](chapter1/dai-li-mo-shi.md)
-  * [创建型模式](chapter1/chuang-jian-xing-mo-shi.md)
-    * [1.单例模式](chapter1/chuang-jian-xing-mo-shi/1dan-li-mo-shi.md)
-    * 2.工厂模式
-  * [2.单例模式](chapter1/dan-li-mo-shi.md)
+  * [2.创建型模式](chapter1/chuang-jian-xing-mo-shi.md)
+    * [2.1.单例模式](chapter1/chuang-jian-xing-mo-shi/1dan-li-mo-shi.md)
+    * 2.2.工厂模式
 * [Java相关](javaxu-ni-ji.md)
   * [jvm虚拟机](javaxu-ni-ji/jvmxu-ni-ji.md)
   * [CAS\[compare and swap\]](javaxu-ni-ji/cascompare-and-swap.md)
