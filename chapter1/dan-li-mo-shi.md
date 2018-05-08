@@ -87,6 +87,9 @@ instance=new Singleton() 创建对象分为以下步骤：
 在这个时间点上，同步代码块尚未执行完毕，由于指令重排序，instance对象已经指向分配的内存空间，但是instance尚未初始化完毕。在这时调用instance，会引发jvm的exception
 
 
+# 防止克隆clone
+
+
 # 防止反射漏洞
 在构造函数里抛出异常
 
