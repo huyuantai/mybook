@@ -1,4 +1,4 @@
-# 简单工厂、工厂模式、抽象工厂的区别
+![](/assets/chouxiainggongchang.png)# 简单工厂、工厂模式、抽象工厂的区别
 
 简单工厂
 > 只有一个工厂来生产鼠标，包括戴尔鼠标和惠普鼠标
@@ -42,6 +42,8 @@
 ![](/assets/gongchangmoshi.png)
 
 # 抽象工厂类图
+![](/assets/chouxianggongchang.png)
+
 
 
 
