@@ -42,7 +42,7 @@
 ![](/assets/gongchangmoshi.png)
 
 # 抽象工厂类图
-![](/assets/chouxianggongchang.png)
+![](/assets/chouxiainggongchang.png)
 
 
 
