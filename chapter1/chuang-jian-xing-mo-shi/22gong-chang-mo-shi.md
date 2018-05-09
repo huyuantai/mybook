@@ -35,5 +35,27 @@
 
 ----
 
+# 简单工厂类图
+![](/assets/jiandangongchang.png)
+
+# 工厂模式类图
+![](/assets/gongchangmoshi.png)
+
+# 抽象工厂类图
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
