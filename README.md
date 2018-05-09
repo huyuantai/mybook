@@ -2,11 +2,5 @@
 
 收集、整理自己的个人知识体系！！！
 
-Alternative fragment（denoted “alt”） 与 if…then…else对应
 
-Option fragment (denoted “opt”) 与 Switch对应
-
-Parallel fragment (denoted “par”) 表示同时发生
-
-Loop fragment(denoted “loop”) 与 for 或者 Foreach对应
 
