@@ -67,7 +67,7 @@
 ![](/assets/jiandangongchang.png)
 
 ##### 时序图
-
+![](/assets/jiandan.png)
 
 
 
