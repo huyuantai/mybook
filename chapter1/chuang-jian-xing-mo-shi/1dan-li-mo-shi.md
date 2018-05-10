@@ -121,6 +121,8 @@ private Object readResolve() throws ObjectStreamException {
 }  
 ```
 
+# 一个单例模式就能考这么多问题，你知道么
+https://juejin.im/entry/581851662e958a0054b238e6
 
 
 
