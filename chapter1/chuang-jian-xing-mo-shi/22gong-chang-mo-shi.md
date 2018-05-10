@@ -86,7 +86,7 @@
 在添加新产品时，需要编写新的具体产品类，而且还要提供与之对应的具体工厂类，系统中类的个数将成对增加，在一定程度上增加了系统的复杂度
 
 ##### 类图
-![](/assets/jiandangongchang.png)
+![](/assets/gongchangmoshi.png)
 
 ##### 时序图
 ![](/assets/jiandan.png)
