@@ -86,6 +86,7 @@ public class SubMealBuilderA extends MealBuilder
 }
 ```
 
+# SubMealBuilderB
 ```java
 public class SubMealBuilderB extends MealBuilder
 {
