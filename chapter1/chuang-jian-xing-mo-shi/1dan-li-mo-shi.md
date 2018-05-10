@@ -100,6 +100,11 @@ instance=new Singleton() 创建对象分为以下步骤：
 
 在这个时间点上，同步代码块尚未执行完毕，由于指令重排序，instance对象已经指向分配的内存空间，但是instance尚未初始化完毕。在这时调用instance，会引发jvm的exception
 
+为什么 构造方法是 private的? 因为上面提到的，不能由其他类任意new单例模式的类
+为什么 getInstance() 是 static方法，因为用了 类名.来调用getInstance() 方法。
+为什么 instance 是 static的？ 静态方法可以访问非静态变量吗？显然不行，所以instance也是static的，而且静态变量是不是只会被初始化一次（感觉3个问题都是java考试题一样，哈哈哈！）
+
+
 
 # 防止克隆clone
 
