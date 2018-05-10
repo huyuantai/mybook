@@ -57,7 +57,7 @@ public class Client
 }
 ```
 
-#### MealBuilder
+#### MealBuilder 公共Builder定义对象的构建过程
 ```java
 public abstract class MealBuilder
 {
