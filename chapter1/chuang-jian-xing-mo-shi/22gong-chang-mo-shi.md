@@ -89,7 +89,7 @@
 ![](/assets/gongchangmoshi.png)
 
 ##### 时序图
-![](/assets/jiandan.png)
+![](/assets/gongchangmoshi2.png)
 
 
 
