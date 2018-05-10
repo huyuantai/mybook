@@ -118,9 +118,7 @@
 ![](/assets/chouxiainggongchang.png)
 
 ##### 时序图
-![](/assets/gongchangmoshi2.png)
-
-
+![](/assets/chouxianggongchang2.png)
 
 
 
