@@ -10,6 +10,7 @@
   * [2.创建型模式](chapter1/chuang-jian-xing-mo-shi.md)
     * [2.1.单例模式](chapter1/chuang-jian-xing-mo-shi/1dan-li-mo-shi.md)
     * [2.2.工厂模式](chapter1/chuang-jian-xing-mo-shi/22gong-chang-mo-shi.md)
+    * [2.3.建造者模式](chapter1/chuang-jian-xing-mo-shi/23jian-zao-zhe-mo-shi.md)
   * [工厂](chapter1/gong-chang.md)
   * [建造者模式](chapter1/jian-zao-zhe-mo-shi.md)
   * [代理模式](chapter1/dai-li-mo-shi.md)
