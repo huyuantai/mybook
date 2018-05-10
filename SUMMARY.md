@@ -21,6 +21,7 @@
   * [Servlet](javaxu-ni-ji/servlet.md)
   * [UML 类图详解](javaxu-ni-ji/uml-lei-tu-xiang-jie.md)
   * [UML](javaxu-ni-ji/uml.md)
+  * [同步关键字](javaxu-ni-ji/tong-bu-guan-jian-zi.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
