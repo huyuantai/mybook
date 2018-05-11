@@ -6,6 +6,7 @@
   * [写作思路](xie-zuo-si-lu.md)
   * [idea](idea.md)
 * [设计模式](chapter1.md)
+  * [0.多态方式](chapter1/0duo-tai-fang-shi.md)
   * [1.设计原则](chapter1/she-ji-yuan-ze.md)
   * [2.创建型模式](chapter1/chuang-jian-xing-mo-shi.md)
     * [2.1.单例模式](chapter1/chuang-jian-xing-mo-shi/1dan-li-mo-shi.md)
