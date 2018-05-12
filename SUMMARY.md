@@ -15,6 +15,7 @@
   * [工厂](chapter1/gong-chang.md)
   * [建造者模式](chapter1/jian-zao-zhe-mo-shi.md)
   * [代理模式](chapter1/dai-li-mo-shi.md)
+  * [观察者模式](chapter1/guan-cha-zhe-mo-shi.md)
 * [Java相关](javaxu-ni-ji.md)
   * [jvm虚拟机](javaxu-ni-ji/jvmxu-ni-ji.md)
   * [CAS\[compare and swap\]](javaxu-ni-ji/cascompare-and-swap.md)
