@@ -87,6 +87,6 @@ response.send("/web应用/资源名 URI");
 11、DispatcherServlet响应用户
 
 ![](/assets/799093-20160724233025857-1256444961.jpg)
-
+![](/assets/20171105190028224.jpg)
 
 
