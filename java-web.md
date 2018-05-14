@@ -86,6 +86,7 @@ response.send("/web应用/资源名 URI");
 10、DispatcherServlet根据View进行渲染视图（即将模型数据填充至视图中）。 
 11、DispatcherServlet响应用户
 
+![](/assets/799093-20160724233025857-1256444961.jpg)
 
 
 
