@@ -11,7 +11,8 @@ Servlet的生命周期分为5个阶段：加载、创建、初始化、处理客
 (4)处理客户请求：当浏览器访问Servlet的时候，Servlet 会调用service()方法处理请求，由service()来交由相应的doPost或doGet方法处理
 
 (5)卸载：调用destroy方法让servlet自己释放其占用的资源,一个Servlet如果长时间不被使用的话，也会被Tomcat自动销毁
-(60卸载。当Servlet调用完destroy()方法后，等待垃圾回收。如果有需要再次使用这个Servlet，会重新调用init()方法进行初始化操作
+
+(60卸载:当Servlet调用完destroy()方法后，等待垃圾回收。如果有需要再次使用这个Servlet，会重新调用init()方法进行初始化操作
 
 > sevlet的生命周期中，servlet的初始化和销毁只会发生一次，
 因此init()和destroy（）方法只能被servlet容器调用一次，
