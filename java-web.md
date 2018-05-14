@@ -2,7 +2,7 @@
 
 Servlet的生命周期分为5个阶段：加载、创建、初始化、处理客户请求、卸载。
 
-(1)加载：容器通过类加载器使用servlet类对应的文件加载servlet
+(1)加载：web容器容器通过类加载器使用servlet类对应的文件加载servlet
 
 (2)创建：通过调用servlet构造函数创建一个servlet对象
 
