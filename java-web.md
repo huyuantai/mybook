@@ -18,3 +18,5 @@ Servlet的生命周期分为5个阶段：加载、创建、初始化、处理客
 因此init()和destroy（）方法只能被servlet容器调用一次，
 service()方法取决与servlet被客户端访问的次数
 destroy()方法仅执行一次，即在服务器停止且卸载Servlet时执行该方法
+
+# forward和redirect的区别
