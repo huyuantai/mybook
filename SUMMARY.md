@@ -29,6 +29,7 @@
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
+  * [Mybatis](shu-ju-ku/mybatis.md)
 * [Linux](linux.md)
   * [常见命令](linux/chang-jian-ming-ling.md)
 * [秒杀](miao-sha.md)
