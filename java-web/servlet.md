@@ -19,7 +19,7 @@ ServletConfig，ServletRequest和ServletResponse 都是通过Tomcat，jetty等se
 　　
 (3) Servle容器根据web.xml文件中Servlet相关配置信息，将请求转发到相应的Servlet； 
 　　
-(4) Servlet容器创建一个 HttpServlet对象，用于处理请求； 
+(4) Servlet容器创建一个 HttpServlet对象，用于处理请求； 创建时会先判断是否在内存中已存在该Servlet了？已存在则不创建，跳到（7）去执行
 　　
 (5) Servlet容器创建一个 HttpServletRequest对象，将请求信息封装到这个对象中； 
 　　
