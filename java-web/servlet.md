@@ -1,6 +1,6 @@
 # Servlet相关类的关系
 ![](/assets/20140926001639734.png)
-ServletConfig，ServletRequest和ServletResponse 都是通过Tomcat，jetty等servlet容器传递给Servlet
+ServletConfig，ServletRequest和ServletResponse 都是通过Tomcat，jetty等servlet容器传递给Servlet的
 
 
 
