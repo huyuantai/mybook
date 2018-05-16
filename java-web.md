@@ -19,6 +19,8 @@ Servlet的生命周期分为5个阶段：加载、创建、初始化、处理客
 service()方法取决与servlet被客户端访问的次数
 destroy()方法仅执行一次，即在服务器停止且卸载Servlet时执行该方法
 
+由于 Servlet 是服务器端小程序，所以 Servlet 必须部署在 Servlet 容器中才能使用，例如 Tomcat，Jetty 等
+
 # forward和redirect的区别
 实际发生位置不同，地址栏不同
 
