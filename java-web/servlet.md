@@ -3,6 +3,8 @@
 1.客户端第一次请求某个Servlet时，容器创建该Servlet实例，这也是大部分Servlet创建实例的时机； 
 2.Web应用启动时立即创建Servlet实例，即 load-on-startup Servlet
 
+> load-on-servlet 指的是应用启动时就创建的Servlet，这些Servlet通常是用于后台服务的Servlet或者需要拦截很多请求的Servlet
+
 # Servlet的执行流程如下图所示：
  
  (1) User Agent 向 Servlet容器（Tomcat）发出Http请求； 
