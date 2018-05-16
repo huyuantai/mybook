@@ -1,5 +1,6 @@
 # Servlet相关类的关系
 ![](/assets/20140926001639734.png)
+ServletConfig，ServletRequest和ServletResponse
 
 
 
