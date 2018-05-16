@@ -3,7 +3,7 @@
 1.客户端第一次请求某个Servlet时，容器创建该Servlet实例，这也是大部分Servlet创建实例的时机； 
 2.Web应用启动时立即创建Servlet实例，即 load-on-startup Servlet
 
-Servlet的执行流程如下图所示：
+# Servlet的执行流程如下图所示：
 
 　　(1) User Agent 向 Servlet容器（Tomcat）发出Http请求； 
 　　(2) Servle容器接收 User Agent 发来的请求； 
