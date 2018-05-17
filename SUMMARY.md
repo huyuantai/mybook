@@ -18,7 +18,6 @@
       * [Synchronization](javaxu-ni-ji/javaji-chu/synchronization.md)
     * 字符串
       * [String](javaxu-ni-ji/javaji-chu/string.md)
-  * [同步关键字](javaxu-ni-ji/tong-bu-guan-jian-zi.md)
   * [Java Web](javaxu-ni-ji/java-web.md)
     * [Servlet](javaxu-ni-ji/java-web/servlet.md)
     * [Tomcat](javaxu-ni-ji/java-web/tomcat.md)
@@ -27,6 +26,8 @@
     * [设计原则](she-ji-yuan-ze.md)
   * [业务架构](ye-wu-jia-gou.md)
     * [秒杀](ye-wu-jia-gou/miao-sha.md)
+  * UML理解
+    * [用例图、时序图、活动图等](yong-li-tu-3001-shi-xu-tu.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
@@ -45,7 +46,6 @@
   * [观察者模式](chapter1/guan-cha-zhe-mo-shi.md)
 * [Linux](linux.md)
   * [常见命令](linux/chang-jian-ming-ling.md)
-* [tomcat](tomcat.md)
 * 面试笔试题
   * [常见笔试题](chang-jian-bi-shi-ti.md)
 
