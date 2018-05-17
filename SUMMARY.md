@@ -28,6 +28,7 @@
     * [秒杀](ye-wu-jia-gou/miao-sha.md)
   * UML理解
     * [各种图概览](yong-li-tu-3001-shi-xu-tu.md)
+    * [类图详解](lei-tu-xiang-jie.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
