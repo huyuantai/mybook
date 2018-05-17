@@ -1,6 +1,6 @@
 # Summary
 
-* [背景介绍](README.md)
+* [辅助类教程](README.md)
   * [MarkDown](markdown.md)
   * [使用GitBook](shi-yong-gitbook.md)
   * [写作思路](xie-zuo-si-lu.md)
@@ -25,7 +25,11 @@
   * [Servlet](javaxu-ni-ji/servlet.md)
   * [UML 类图详解](javaxu-ni-ji/uml-lei-tu-xiang-jie.md)
   * [UML](javaxu-ni-ji/uml.md)
+  * [Java基础](javaxu-ni-ji/javaji-chu.md)
+    * Jvm方面
+      * [Jvm虚拟机](javaxu-ni-ji/javaji-chu/jvmxu-ni-ji.md)
   * [同步关键字](javaxu-ni-ji/tong-bu-guan-jian-zi.md)
+  * Java Web
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
