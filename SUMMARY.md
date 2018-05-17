@@ -20,13 +20,15 @@
       * [String](javaxu-ni-ji/javaji-chu/string.md)
   * [同步关键字](javaxu-ni-ji/tong-bu-guan-jian-zi.md)
   * Java Web
+* 架构与设计
+  * 设计模式
+    * [设计原则](she-ji-yuan-ze.md)
+  * [业务架构](ye-wu-jia-gou.md)
+    * [秒杀](ye-wu-jia-gou/miao-sha.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
   * [Mybatis](shu-ju-ku/mybatis.md)
-* 架构与设计
-  * 设计模式
-    * [设计原则](she-ji-yuan-ze.md)
 * [设计模式](chapter1.md)
   * [0.多态方式](chapter1/0duo-tai-fang-shi.md)
   * [0.0模式总结](chapter1/00.md)
