@@ -21,6 +21,7 @@
   * [同步关键字](javaxu-ni-ji/tong-bu-guan-jian-zi.md)
   * [Java Web](javaxu-ni-ji/java-web.md)
     * [Servlet](javaxu-ni-ji/java-web/servlet.md)
+    * [Tomcat](javaxu-ni-ji/java-web/tomcat.md)
 * 架构与设计
   * 设计模式
     * [设计原则](she-ji-yuan-ze.md)
@@ -45,8 +46,6 @@
 * [Linux](linux.md)
   * [常见命令](linux/chang-jian-ming-ling.md)
 * [tomcat](tomcat.md)
-* [笔试题](bi-shi-ti.md)
-* 架构与设计
 * 面试笔试题
   * [常见笔试题](chang-jian-bi-shi-ti.md)
 
