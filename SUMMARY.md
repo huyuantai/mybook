@@ -6,7 +6,6 @@
   * [写作思路](xie-zuo-si-lu.md)
   * [idea](idea.md)
 * [2.Java相关](javaxu-ni-ji.md)
-  * [String](javaxu-ni-ji/string.md)
   * [Java 学习路线](javaxu-ni-ji/java-xue-xi-lu-xian.md)
   * [Servlet](javaxu-ni-ji/servlet.md)
   * [UML 类图详解](javaxu-ni-ji/uml-lei-tu-xiang-jie.md)
@@ -16,6 +15,7 @@
       * [Jvm虚拟机](javaxu-ni-ji/javaji-chu/jvmxu-ni-ji.md)
     * 并发
       * [CAS](javaxu-ni-ji/javaji-chu/cas.md)
+      * [Synchronization](javaxu-ni-ji/javaji-chu/synchronization.md)
     * 字符串
       * [String](javaxu-ni-ji/javaji-chu/string.md)
   * [同步关键字](javaxu-ni-ji/tong-bu-guan-jian-zi.md)
