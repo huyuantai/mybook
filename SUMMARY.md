@@ -27,7 +27,7 @@
   * [业务架构](ye-wu-jia-gou.md)
     * [秒杀](ye-wu-jia-gou/miao-sha.md)
   * UML理解
-    * [用例图、时序图、活动图等](yong-li-tu-3001-shi-xu-tu.md)
+    * [各种图概览](yong-li-tu-3001-shi-xu-tu.md)
 * [数据库](shu-ju-ku.md)
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
