@@ -19,7 +19,8 @@
     * 字符串
       * [String](javaxu-ni-ji/javaji-chu/string.md)
   * [同步关键字](javaxu-ni-ji/tong-bu-guan-jian-zi.md)
-  * Java Web
+  * [Java Web](javaxu-ni-ji/java-web.md)
+    * [Servlet](javaxu-ni-ji/java-web/servlet.md)
 * 架构与设计
   * 设计模式
     * [设计原则](she-ji-yuan-ze.md)
@@ -43,7 +44,6 @@
   * [观察者模式](chapter1/guan-cha-zhe-mo-shi.md)
 * [Linux](linux.md)
   * [常见命令](linux/chang-jian-ming-ling.md)
-* [秒杀](miao-sha.md)
 * [tomcat](tomcat.md)
 * [笔试题](bi-shi-ti.md)
 * [Java Web](java-web.md)
