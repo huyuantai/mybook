@@ -46,7 +46,7 @@
   * [常见命令](linux/chang-jian-ming-ling.md)
 * [tomcat](tomcat.md)
 * [笔试题](bi-shi-ti.md)
-* [Java Web](java-web.md)
-  * [Servlet](java-web/servlet.md)
 * 架构与设计
+* 面试笔试题
+  * [常见笔试题](chang-jian-bi-shi-ti.md)
 
