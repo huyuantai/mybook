@@ -24,6 +24,9 @@
   * [索引](shu-ju-ku/suo-yin.md)
   * 创建用户并赋予权限
   * [Mybatis](shu-ju-ku/mybatis.md)
+* 架构与设计
+  * 设计模式
+    * [设计原则](she-ji-yuan-ze.md)
 * [设计模式](chapter1.md)
   * [0.多态方式](chapter1/0duo-tai-fang-shi.md)
   * [0.0模式总结](chapter1/00.md)
@@ -43,5 +46,5 @@
 * [笔试题](bi-shi-ti.md)
 * [Java Web](java-web.md)
   * [Servlet](java-web/servlet.md)
-* [spring](spring.md)
+* 架构与设计
 
